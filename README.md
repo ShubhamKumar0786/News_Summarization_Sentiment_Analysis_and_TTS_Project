@@ -120,6 +120,17 @@ This project has been deployed on Hugging Face Spaces, making it accessible onli
 4. View the JSON report andnPlayable audio file summarizing the sentiment report.
 
 
+## Preview
+
+
+
+https://github.com/user-attachments/assets/8bf695a6-50ec-478c-872a-02bfdd620ea5
+
+
+
+
+
+
 ## Output
 ### Streamlit JSON Report
 ```json
