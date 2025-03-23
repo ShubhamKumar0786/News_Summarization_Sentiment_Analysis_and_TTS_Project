@@ -104,14 +104,14 @@ This project has been deployed on Hugging Face Spaces, making it accessible onli
 
 5. **Deploy**:
    - Commit the files and let Hugging Face build the Space.
-   - Once built, the app is live at a URL link shubham 
+   - Once built, the app is live at a https://huggingface.co/Shubham0786 
 
 ### Accessing the Deployed App
-- Visit the Hugging Face Space URL link.....
+- Visit the Hugging Face Space https://huggingface.co/spaces/Shubham0786/News_Summarization_and_Sentiment_Analysis
 - Enter a company name in the text input and click "Analyze" to see the results and hear the Hindi TTS summary.
 
 
-## Usage E
+## Usage 
 
 ### Streamlit UI (Hugging Face)
 1. Open the app .
