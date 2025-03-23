@@ -156,6 +156,14 @@ https://github.com/user-attachments/assets/8bf695a6-50ec-478c-872a-02bfdd620ea5
 - Generated audio file (`output.wav`) with a summary like:
   "टेस्ला की खबरों का सारांश: कुल 10 लेख मिले। सकारात्मक: 6, नकारात्मक: 2, तटस्थ: 2।"
 
+## Feedback and Contributions
+
+We welcome contributions! If you have insights, improvements, or suggestions, please open an issue or submit a pull request.
+- 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
+- 📧 Email:shubhamkashyap9501@gmail.com
+- LinkedIn: [Linkedin_link](https://www.linkedin.com/in/shubham0786/)
+
+
 ## License
 This project is open-source and available under the MIT License.
 
