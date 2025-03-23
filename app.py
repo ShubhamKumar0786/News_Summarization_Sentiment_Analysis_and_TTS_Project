@@ -4,7 +4,7 @@ from utils import fetch_news, analyze_sentiment, summarize_text, generate_hindi_
 st.title("News Summarization and Sentiment Analysis")
 
 # Input company name
-company_name = st.text_input("Enter Company Name (e.g., Tesla,Amazon,Apple)")
+company_name = st.text_input("Enter Company Name")
 
 if st.button("Analyze"):
     # Fetch news
